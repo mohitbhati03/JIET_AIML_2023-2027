@@ -1,8 +1,6 @@
 # 📚 AI & ML Notes (2023–2027 Batch)
 
-This repository is created for **AI & ML (2023–2027)** batch students. It contains Telegram group links for each semester where notes, important questions, and study resources are shared.
-
-Most of the resources are collected from **me, my friends, classmates, and teachers**. All credit goes to the respective contributors and original creators.
+This repository is created for **AI & ML (2023–2027)** batch students. It contains Telegram group links for each semester where notes and study resources are shared.
 
 ## 📌 Notes Groups – AI & ML (2023–2027)
 
