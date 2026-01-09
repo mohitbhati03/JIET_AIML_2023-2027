@@ -1,4 +1,4 @@
-1st year labs works
+# 📚 1st Year Labs Works (2023–2027 Batch)
 
 Engineering Chemistry Lab
 [https://t.me/c/2440088810/8](https://t.me/c/2440088810/8)
@@ -34,3 +34,18 @@ Python Programming Lab
 
 GUI Programming using Tkinter (Python)
 [https://t.me/c/2440088810/15](https://t.me/c/2440088810/15)
+
+---
+
+## 🙏 Credits
+
+These lab resources are collected from:
+- College lab sessions
+- Classmates and friends
+- Lab instructors and teachers
+
+All rights and credit belong to the original creators and contributors.
+
+## ⚠️ Disclaimer
+
+All lab resources are provided **for educational purposes only**. Please use them responsibly and follow your institution's guidelines.
