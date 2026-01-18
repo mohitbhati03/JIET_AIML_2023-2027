@@ -1,0 +1,11 @@
+Document,K1,K2,K3,K4,Category
+D1,Transformer,static,machine, voltage,Electrical Engineering
+D2,Electrical ,Power ,Energy, Heat,Electrical Engineering
+D3,Electrical ,Machines ,Motors, Generators,Electrical Engineering
+D4,ohms ,law ,voltage, current,Electrical Engineering
+D5,Instrument,current ,voltage,Transformer,Electrical Engineering
+D6,Machine ,Learning ,Algorithm, Python,Computer Science & Engineering
+D7,Artifical ,Inteligence ,Search,Algorithm,Computer Science & Engineering
+D8,Python ,Programming,Language, Software,Computer Science & Engineering
+D9,CPlusPlus ,Language ,Turbo, Coding,Computer Science & Engineering
+D10,Java ,Query ,Language, Progamming,Computer Science & Engineering
