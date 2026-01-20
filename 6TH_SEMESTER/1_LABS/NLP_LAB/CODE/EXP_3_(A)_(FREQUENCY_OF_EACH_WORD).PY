@@ -1,0 +1,20 @@
+import nltk
+from nltk.tokenize import word_tokenize
+from collections import Counter
+
+nltk.download('punkt')
+
+text = input("Enter text: ")
+
+words = word_tokenize(text.lower())
+
+freq = Counter(words)
+
+print("Word Frequency:")
+for word, count in freq.items():
+    print(word, ":", count)
+
+
+
+
+# This is a test. This test is easy.
