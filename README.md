@@ -2,6 +2,11 @@
 
 This repository is created for **AI & ML (2023–2027)** batch students. It contains Telegram group links for each semester where notes and study resources are shared.
 
+## 🌐 Notes Website
+
+NotesAdda Website:  
+[https://notesadda03.vercel.app/](https://notesadda03.vercel.app/)
+
 ## 📌 Notes Groups – AI & ML (2023–2027)
 
 ### 🧩 1st Year (Common)
@@ -25,6 +30,12 @@ Telegram Group Link:
 ### 📙 5th Semester (AI & ML)
 Telegram Group Link:  
 [https://t.me/+m7zhFq6JeI84NmU1](https://t.me/+m7zhFq6JeI84NmU1)
+
+---
+
+### 📕 6th Semester (AI & ML)
+Telegram Group Link:  
+[https://t.me/+4BICMrWD-AVkMDk9](https://t.me/+4BICMrWD-AVkMDk9)
 
 ---
 
