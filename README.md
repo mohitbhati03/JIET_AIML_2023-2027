@@ -5,7 +5,7 @@ This repository is created for **AI & ML (2023–2027)** batch students. It cont
 ## 🌐 Notes Website
 
 NotesAdda Website:  
-[https://notesadda03.vercel.app/](https://notesadda03.vercel.app/)
+[https://notesadda03.me/](https://notesadda03.me/)
 
 ## 📌 Notes Groups – AI & ML (2023–2027)
 
